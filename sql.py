@@ -1,5 +1,5 @@
 import sqlite3
-import random
+
 con = sqlite3.connect('main.db')
 cur = con.cursor()
 
